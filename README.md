@@ -1,1 +1,1 @@
-#Home Automation system.
+#Home Automation - Remote Control Appliances.
